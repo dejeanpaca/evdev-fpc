@@ -1,3 +1,8 @@
+{
+   Adapted from: https://github.com/torvalds/linux/blob/master/include/uapi/linux/input.h
+   Commit: f729a1b0f8df7091cea3729fc0e414f5326e1163
+}
+
 UNIT linux_input;
 
 {$PackRecords C}
